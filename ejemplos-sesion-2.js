@@ -1,3 +1,3 @@
-var nombre = "Hola mundo desde JavaScript";
+var saludo = "Hola mundo desde JavaScript";
 
-console.log(nombre)
+console.log(saludo)
